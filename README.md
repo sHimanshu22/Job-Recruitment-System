@@ -22,13 +22,13 @@ this system simplifies the recruitment process with an intuitive user interface 
 
 ---
 
-1) Clone the Repository
+1. Clone the Repository
 
 ```bash
 git clone https://github.com/sHimanshu22/Job-Recruitment-System.git
 cd Job-Recruitment-System
 
-2) Set Up MySQL Database
+2. Set Up MySQL Database
 -Open MySQL Workbench or any MySQL client.
 
 Create a new database, e.g., job_recruitment_system.
@@ -70,7 +70,7 @@ Database Schema
 | `resumePath`  | VARCHAR  | Path to the uploaded resume file                 |
 
 
-3) Configure Project in Your IDE
+3. Configure Project in Your IDE
 Open the project in IntelliJ IDEA or NetBeans.
 
 Make sure your JDK is installed and selected.
